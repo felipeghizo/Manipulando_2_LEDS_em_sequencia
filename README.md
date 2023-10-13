@@ -12,4 +12,4 @@
 
 ## Esquema do projeto
 
-![Esquema do projeto](manipulando_2_leds_em_sequencia)
+![Esquema do projeto](manipulando_2_leds_em_sequencia.png)
