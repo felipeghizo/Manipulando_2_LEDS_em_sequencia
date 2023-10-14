@@ -1,5 +1,7 @@
 # Manipulando 2 LEDS em sequencia
  Este experimento consiste em fazer com que o LED incorporado e dois leds pisquem juntos utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13). 
+
+  <b><a href="https://www.tinkercad.com/things/hxai7G5UwJF">Clique Aqui</a></b> para ver o projeto em Tinkercard.com!
  
 ## Lista de componentes:
 
@@ -8,7 +10,7 @@
 - 1  Placa de prototipação (Protoboard)
 - 2  LED RGB Cátodo
 - 2  Resistor de 220 Ω ohms
-- 4 Jumpers (macho-macho)
+- 4  Jumpers (macho-macho)
 
 ## Esquema do projeto
 
